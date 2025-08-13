@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 I’m currently in my final year of studies<br>🤖 Actively learning AI, Machine Learning, and Python<br>🔥 I’m an active learner who loves exploring new technologies and solving real-world problems!<br><br>
+🎓 I’m currently in my final year of studies<br>🤖 Actively learning AI, Machine Learning,Data Science and Python<br>🔥 I’m an active learner who loves exploring new technologies and solving real-world problems!<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandhini-chennaiyan-910b5a31a/) 
+(https://linkedin.com/in/https://www.linkedin.com/in/nandhini-chennaiyan-910b5a31a/) 
 
 
 # 💻 Tech Stack:
